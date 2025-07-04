@@ -6,8 +6,6 @@ The Smart Webcam project is a Python-based application designed to manage and mo
 ![Login Form](Screenshots/Login.png)
 ![Forgot Password](Screenshots/ForgotPassword.png)
 ![Main Menu](Screenshots/MainMenu.png)
-![Face Attendance](Screenshots/FaceAttendance.png)
-![Motion Detection](Screenshots/MotionDetection.png)
 ![Student Registration](Screenshots/Student.png)
 ![Admin Regisitration](Screenshots/Admin.png)
 
